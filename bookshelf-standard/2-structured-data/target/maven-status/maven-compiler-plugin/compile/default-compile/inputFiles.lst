@@ -1,0 +1,11 @@
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/objects/Result.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/ListBookServlet.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/DeleteBookServlet.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/objects/Book.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/daos/DatastoreDao.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/ReadBookServlet.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/util/DatastoreSessionFilter.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/daos/CloudSqlDao.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/daos/BookDao.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/CreateBookServlet.java
+/Users/nicklittlefield/Desktop/AppEngineBookshelfPostgres/bookshelf-standard/2-structured-data/src/main/java/com/example/getstarted/basicactions/UpdateBookServlet.java
