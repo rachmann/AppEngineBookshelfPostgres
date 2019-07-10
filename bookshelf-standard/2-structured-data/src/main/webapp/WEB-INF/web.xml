@@ -92,6 +92,7 @@
         <param-value>${bookshelf.storageType}</param-value>
     </context-param>
 
+<!-- jdbc:postgresql://google/test?cloudSqlInstance=swathitest1:asia-south1:swathi-db&socketFactory=com.google.cloud.sql.postgres.SocketFactory&user=postgres&password=Welcome1! -->
     <context-param>
         <param-name>sql.urlRemote</param-name>
         <param-value>jdbc:postgresql://google/${sql.dbName}?cloudSqlInstance=${sql.instanceName}&amp;socketFactory=com.google.cloud.sql.postgres.SocketFactory&amp;user=${sql.userName}&amp;password=${sql.password}</param-value>
